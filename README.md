@@ -157,3 +157,12 @@ CDLAB_UAV-Hardware/
 - 项目主页：[CDLAB_UAV-Hardware](https://github.com/dadadeku/CDLAB_UAV-Hardware)
 
 如果这个项目对你有帮助，欢迎 Star、复现并分享你的改进。
+
+## 参考项目
+
+以下开源项目为本平台的硬件选型、整机装配、软件部署和控制算法开发提供了有价值的参考：
+
+- [HNU-Quadrotor](https://github.com/HNU-CAT/HNU-Quadrotor) — 无人机硬件拆解、物料清单与机载计算机配置参考
+- [Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250) — 250 mm 自主无人机软硬件设计与组装教程
+- [REAL_DRONE_400](https://github.com/NEU-REAL/REAL_DRONE_400) — 东北大学 REAL 实验室开源自主无人机套件与组装教程
+- [OMMPC-Controller](https://github.com/OliverWu515/ommpc_controller) — On-Manifold Model Predictive Control（OMMPC）控制器的 C++ 实现
