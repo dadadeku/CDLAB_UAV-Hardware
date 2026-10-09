@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"27-05299429-582151";"";
+"REFERENCE";"MID-360";"";
+"TraceParts.PartTitle";"Industrial-grade lidar Mid-360";"";
+"TraceParts.InstanceId";"27-05299429-58215136FDR7KA1GQNQOJK3QTZMLD2H";"";
+"SUPPLIER";"LIVOX";"";
+"DESIGN";"Industrial-grade lidar Mid-360";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
